@@ -36,19 +36,6 @@ The goal is to develop a strong foundation in modern AI technologies while apply
 * Hugging Face Transformers
 * Jupyter Notebook
 
-## Repository Structure
-
-```text
-Deep-Learning-and-NLP/
-│
-├── Deep_Learning/
-├── NLP/
-├── Projects/
-├── Experiments/
-├── Datasets/
-├── Notes/
-└── Resources/
-```
 
 ## Learning Approach
 
