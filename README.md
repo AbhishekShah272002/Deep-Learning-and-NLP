@@ -10,7 +10,7 @@ The goal is to develop a strong foundation in modern AI technologies while apply
 
 ## Areas of Focus
 
-* Deep Learning Fundamentals 
+* Deep Learning Fundamentals
 * Neural Networks & Backpropagation
 * Convolutional Neural Networks (CNNs)
 * Recurrent Neural Networks (RNNs, LSTMs, GRUs)
